@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Pauline Zaldonis. 👋
+
+I'm a public sector researcher and analyst focused on open data and open-source tools, with a strong interest in human-centered design. I'm passionate about making data accessible and useful for decision-making. 
+
+📊 Frequent R user 
+🗺 Dabbling with spatial analysis using R and ArcGIS
+🤝 Interested in collaborative, public service–oriented data work
+
 
 <!--
 **pzaldonis/pzaldonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
